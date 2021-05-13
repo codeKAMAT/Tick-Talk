@@ -42,6 +42,6 @@ The following functionalities have been added to the app-
 
 ![Technology overview](ScreenShot/Shot1.png)
 
-![Technology overview](ScreenShot/Shot2.png)
+![Technology overview](ScreenShot/shot2.png)
 
 ![Technology overview](ScreenShot/Shot3.png)
