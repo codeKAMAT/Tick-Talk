@@ -1,4 +1,4 @@
-<img src="src/images/logo.png" alt="logo" width="80" height="70">
+<img src="src/images/logo.png" alt="logo" width="77" height="70">
 
 # Tick Talk
 
